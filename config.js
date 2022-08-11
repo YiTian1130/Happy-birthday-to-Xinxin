@@ -59,6 +59,6 @@ var config = {
         cake_fadein: "蛋糕？！",
         light_candle: "蜡烛？！",
         wish_message: "祝我的老婆大人生日快乐！！",
-        story: "送上老公我的真挚的祝福",
+        story: "送上老公我真挚的祝福",
     }
 };
